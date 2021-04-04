@@ -11,3 +11,5 @@ Python script to download public and private vimeo videos.
 ./start.sh
 ```
 - Follow the istructions
+
+![Vimeo Master JSON URL](https://github.com/alainrk/vimeo_downloader/raw/master/vimeo.png)
